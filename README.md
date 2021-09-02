@@ -21,9 +21,9 @@
 ### Programming Languages
 
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://icons8.com/icons/set/ios"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/ios/50/000000/ios-logo.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/swift.png"/>
+	<img width="10%" style="padding:5px" src="https://img.icons8.com/ios/64/000000/external-apple-fitness-kiranshastry-solid-kiranshastry.png"/>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
