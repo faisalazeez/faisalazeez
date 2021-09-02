@@ -1,7 +1,6 @@
-## 👋 &nbsp;Hello Humans! **I'm Faisal Azeez**
+#  iOS Developer
 
-
-### 👨🏻‍💻 &nbsp;About Me
+### 👋 &nbsp;Hello Humans! **I'm Faisal Azeez**
 
 - I'm  **Learner** | **Programmer** | **Traveller**
 - Currently working in **Swift**, **Objective-c**, **iOS Development**
@@ -32,5 +31,8 @@
 </a>
 </p>
 
-#### Profile views counter
+### 👀 &nbsp;Profile views
 ![Visitor Count](https://profile-counter.glitch.me/{faisalazeez}/count.svg)
+
+
+### Repo Contribution 👇
