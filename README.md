@@ -18,14 +18,6 @@
 	<a href="https://twitter.com/faisalazeez7"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-### Programming Languages
-
-<p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/ios/50/000000/ios-logo.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/48/000000/swift.png"/>
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/ios/64/000000/external-apple-fitness-kiranshastry-solid-kiranshastry.png"/>
-</p>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="justify">
