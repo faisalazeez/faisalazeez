@@ -1,8 +1,4 @@
-<!--
-
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Aditya</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm Faisal Azeez -->
+## 👋 &nbsp;Hey there! I'm Faisal Azeez -->
 
 ### 👨🏻‍💻 &nbsp;About Me
 
@@ -11,7 +7,7 @@
 - Willing to contribute more and more in **Open Source Projects**
 
 
-### Feel Free to Contact me.....
+### Contact me at -->
 
 <p align="center">
 	<a href="https://github.com/faisalazeez"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
@@ -29,14 +25,14 @@
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
 
-#### Profile views counter
-![Visitor Count](https://profile-counter.glitch.me/{faisalazeez}/count.svg)
-
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="justify">
 <a href="https://github.com/faisalazeez">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faisalazeez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisalazeez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+#### Profile views counter
+![Visitor Count](https://profile-counter.glitch.me/{faisalazeez}/count.svg)
