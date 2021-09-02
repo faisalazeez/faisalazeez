@@ -1,4 +1,4 @@
-## 👋 &nbsp;Hey there! I'm Faisal Azeez
+## 👋 &nbsp;Hello Humans! **I'm Faisal Azeez**
 
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -10,7 +10,7 @@
 
 ### Contact me at
 
-<p align="center">
+<p align="left">
 	<a href="https://github.com/faisalazeez"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
 	<a href="https://www.linkedin.com/in/faisalazeez/"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
 	<a href="https://www.facebook.com/faisalazeez/"><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
@@ -20,10 +20,10 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="justify">
+<p align="left">
 <a href="https://github.com/faisalazeez">
-  <img height="140em" hspace="20" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faisalazeez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="140em" hspace="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisalazeez&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="150em" hspace="20" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faisalazeez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="150em" hspace="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisalazeez&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
