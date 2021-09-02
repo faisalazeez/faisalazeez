@@ -21,14 +21,14 @@
 ### Programming Languages
 
 <p align="center">
-	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/java-coffee-cup-logo.png"/>
+	<img width="10%" style="padding:5px" src="https://icons8.com/icons/set/ios"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/python.png"/>
 	<img width="10%" style="padding:5px" src="https://img.icons8.com/color/144/000000/javascript.png"/>
 </p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="left">
+<p align="justify">
 <a href="https://github.com/faisalazeez">
   <img height="140em" hspace="20" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faisalazeez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="140em" hspace="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisalazeez&layout=compact&langs_count=8&theme=algolia"/>
