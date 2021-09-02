@@ -1,6 +1,6 @@
 #  iOS Developer
 
-### 👋 &nbsp;Hello Humans! I'm Faisal Azeez
+### 👋 &nbsp;Hello, I'm Faisal Azeez
 
 - I'm  **Learner** | **Programmer** | **Traveller**
 - Currently working in **Swift**, **Objective-c**, **iOS Development**
