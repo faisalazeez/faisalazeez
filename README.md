@@ -28,7 +28,7 @@
 
 ### ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
+<p align="left">
 <a href="https://github.com/faisalazeez">
   <img height="140em" hspace="20" src="https://github-readme-stats-eight-theta.vercel.app/api?username=faisalazeez&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="140em" hspace="20" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=faisalazeez&layout=compact&langs_count=8&theme=algolia"/>
