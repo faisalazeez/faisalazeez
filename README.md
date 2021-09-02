@@ -8,7 +8,7 @@
 - Willing to contribute more and more in **Open Source Projects**
 
 
-### 📞 &nbsp;Contact me at
+### ☎️ &nbsp;Contact me at
 
 <p align="left">
 	<a href="https://github.com/faisalazeez"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
