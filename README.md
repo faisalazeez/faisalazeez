@@ -1,13 +1,13 @@
 #  iOS Developer
 
-### 👋 &nbsp;Hello, I'm Faisal Azeez
+### Hello, I'm Faisal Azeez
 
 - I'm  **Learner** | **Programmer** | **Traveller**
 - Currently working in **Swift**, **Objective-c**, **iOS Development**
 - Willing to contribute more and more in **Open Source Projects**
 
 
-### ☎️ &nbsp;Contact me at
+### Contact me at
 
 <p align="left">
 	<a href="https://github.com/faisalazeez"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
@@ -17,7 +17,7 @@
 	<a href="https://twitter.com/faisalazeez7"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
 </p>
 
-### ⚙️ &nbsp;GitHub Analytics
+### GitHub Analytics
 
 <p align="left">
 <a href="https://github.com/faisalazeez">
@@ -33,7 +33,7 @@
 </p>
 
 <!--
-### 👀 &nbsp;Profile views
+### Profile views
 ![Visitor Count](https://profile-counter.glitch.me/{faisalazeez}/count.svg)
 -->
 
